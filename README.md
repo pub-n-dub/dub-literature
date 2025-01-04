@@ -1,6 +1,6 @@
 ## quaternions-one
 
-Reignition of quaternions in electromagnetism.
+Reignition of quaternions in electromagnetism. But I suspect to be successful, we will first have to diverge from Lagrange.
 
 ## About this repo
 
